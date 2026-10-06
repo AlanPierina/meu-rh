@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074317412468",
+    "project_id": "meu-rh-2c35d",
+    "storage_bucket": "meu-rh-2c35d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074317412468:android:7f1dc67f29c46636662921",
+        "android_client_info": {
+          "package_name": "com.example.meu_rh_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoDFJAm5PtvZLCxGSZEWFCl9eFlioi82k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
